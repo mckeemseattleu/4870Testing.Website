@@ -58,10 +58,13 @@ namespace UnitTests.Pages.Product.AddRating
             // Act
             // Store the result of the AddRating method (which is being tested)
 
+            var result = "";
+
             // TODO You must fill out the commented line below with the invalid value and the function 
             // that must be called. 
 
-            //var result = TestHelper.ProductService.AddRat
+
+            //result = TestHelper.ProductService.AddRat
 
             // Assert
             Assert.AreEqual(false, result);
