@@ -82,7 +82,7 @@ namespace UnitTests.Pages.Product.Read
 
             // Assert
             Assert.AreEqual(true, pageModel.ModelState.IsValid);
-            Assert.AreEqual("Cloud Costume", pageModel.Product.Title);
+            Assert.AreEqual("Cloud Costumee", pageModel.Product.Title);
         }
         #endregion OnGet
     }
