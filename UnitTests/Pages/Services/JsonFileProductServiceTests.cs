@@ -58,7 +58,7 @@ namespace UnitTests.Pages.Product.AddRating
             // Act
             // Store the result of the AddRating method (which is being tested)
 
-            var result = "";
+            var result = false;
 
             // TODO You must fill out the commented line below with the invalid value and the function 
             // that must be called. 
